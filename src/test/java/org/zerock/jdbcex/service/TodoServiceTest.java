@@ -25,6 +25,7 @@ class TodoServiceTest {
                 .dueDate(LocalDate.now())
                 .build();
 
+        log.info(todoDTO);
         todoService.register(todoDTO);
     }
 }
