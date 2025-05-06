@@ -4,6 +4,7 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo/modify.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo/read.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo/register.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/todo" />
       </map>
